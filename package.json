@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.5.5"
+  }
+}

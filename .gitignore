@@ -1,0 +1,7 @@
+node_modules/
+out/
+.env
+qr_codes/
+lastpass.json
+uris.txt
+aegis.json
